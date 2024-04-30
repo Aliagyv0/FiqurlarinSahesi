@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\bin\Debug\net7.0\SaheninHesablanmasi.exe
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\bin\Debug\net7.0\SaheninHesablanmasi.deps.json
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\bin\Debug\net7.0\SaheninHesablanmasi.runtimeconfig.json
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\bin\Debug\net7.0\SaheninHesablanmasi.dll
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\bin\Debug\net7.0\SaheninHesablanmasi.pdb
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\obj\Debug\net7.0\SaheninHesablanmasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\obj\Debug\net7.0\SaheninHesablanmasi.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\obj\Debug\net7.0\SaheninHesablanmasi.AssemblyInfo.cs
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\obj\Debug\net7.0\SaheninHesablanmasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\obj\Debug\net7.0\SaheninHesablanmasi.dll
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\obj\Debug\net7.0\refint\SaheninHesablanmasi.dll
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\obj\Debug\net7.0\SaheninHesablanmasi.pdb
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\obj\Debug\net7.0\SaheninHesablanmasi.genruntimeconfig.cache
+C:\Users\hp\Desktop\HomeTask\SaheninHesablanmasi\SaheninHesablanmasi\obj\Debug\net7.0\ref\SaheninHesablanmasi.dll
